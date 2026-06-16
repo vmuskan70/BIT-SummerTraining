@@ -8,7 +8,7 @@ print(age)
 print(college_name)
 # 2. Create variables for name, age, marks, and city.
 name=input("enter your name : ")
-age-int(input("enter your age : "))
+age=int(input("enter your age : "))
 marks=int(input("enter your marks : "))
 city=input("enter your city : ")
 # 3. Use these data types: string, integer, float, and boolean.
@@ -36,7 +36,4 @@ dict={
     "batch":"a"
 }
 # 6. Write one comment explaining what your program does.
-#sum of two numbers
-a=3
-b=2
-print("sum : ",a+b)
+#This program shows the use of variables,data types,lists,dictionaries, and print statements in python.
